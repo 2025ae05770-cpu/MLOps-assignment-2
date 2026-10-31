@@ -1,0 +1,20 @@
+{
+  "experiment_name": "eduassist_llmops_assignment",
+  "prompt_name": "eduassist_academic_qa",
+  "model": "gpt-5.4-mini-2026-03-17",
+  "api_version": "OpenAI REST v1 /chat/completions",
+  "max_completion_tokens": 800,
+  "reasoning_effort": "none",
+  "timeout_seconds": 90,
+  "schedule_seed": 42,
+  "pricing": {
+    "currency": "USD",
+    "date": "2026-10-31",
+    "input_per_million": 0.75,
+    "output_per_million": 4.5,
+    "cached_input_per_million": 0.075,
+    "source": "https://developers.openai.com/api/docs/pricing",
+    "model_source": "https://developers.openai.com/api/docs/models/gpt-5.4-mini",
+    "basis": "Standard text-token pricing, no tools, no regional uplift; recheck before execution"
+  }
+}
