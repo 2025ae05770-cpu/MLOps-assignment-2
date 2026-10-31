@@ -2,8 +2,8 @@
 
 **EduAssist AI: API Cost, Latency, and Prompt Version Management**
 
-Student name: **enter your name**  
-BITS ID: **enter your BITS ID**
+Student name: **PUNEET CHAWLA**  
+BITS ID: **2025AE05770**
 
 This solution implements all three tasks. It evaluates the exact three supplied
 prompts on the same five academic questions, makes **15 real API requests**, logs
